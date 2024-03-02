@@ -1,1 +1,3 @@
-narendra
+Narendra Singh
+ 1. create a rep on github --> clone it > use it  (Easy and preferred)
+ 2. we already have a git repo present and we need to push this repo on the vscode
